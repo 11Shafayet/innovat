@@ -19,7 +19,7 @@ const Hero = () => {
           />
           <h5 className="text-2xl uppercase">RENOVATION</h5>
           <h5 className="text-4xl lg:text-6xl !leading-loose uppercase flex items-center gap-x-2">
-            Hello
+            EXPERT INTERIOR
             <span
               className="inline-block w-72 h-24 bg-cover bg-center bg-no-repeat rounded-full object-cover overflow-hidden"
               style={{ backgroundImage: `url(${hero1})` }}
